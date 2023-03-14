@@ -4,4 +4,4 @@ Made with [crosscode-map-editor](https://github.com/CCDirectLink/crosscode-map-e
 
 js code and packaging sourced from [Autumns Genesis mod](https://github.com/Hsifnus/autumns-genesis).
 
-I am a map maker, not a coder.
+I am a map maker, not a programmer.
