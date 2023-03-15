@@ -28,7 +28,7 @@ CCLoader is a mod loader for CrossCode and is neccessary for CursedCode. Follow 
 
 ![image1](https://user-images.githubusercontent.com/125806279/225469235-d3c05566-3aab-485b-8e82-4c8dbc38d32b.png)
 
-4. Move the cursedcode.ccmod file into the `\CrossCode\assets\mods` file directory
+4. Move the cursedcode.ccmod file into the `\CrossCode\assets\mods` folder directory.
 
 ![image2](https://user-images.githubusercontent.com/125806279/225469504-708da7f9-9069-4b42-aa31-b86cedc27fc6.png)
 
