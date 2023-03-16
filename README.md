@@ -16,7 +16,7 @@ Input display by [Open Joystick Display](https://www.softpedia.com/get/Internet/
 I am a map maker, not a programmer.
 
 # CCLoader
-CCLoader is a mod loader for CrossCode and is neccessary for CursedCode. Follow [this video for installation](https://www.youtube.com/watch?v=kY3_C2D2gDA)
+CCLoader is a mod loader for CrossCode and is neccessary for CursedCode. Follow [this video for installation](https://www.youtube.com/watch?v=kY3_C2D2gDA).
 
 # Installing CursedCode mod
 
