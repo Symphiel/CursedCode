@@ -11,6 +11,8 @@ Made with [CrossCode Map Editor](https://github.com/CCDirectLink/crosscode-map-e
 
 js code and packaging sourced from [Autumn's Genesis mod](https://github.com/Hsifnus/autumns-genesis).
 
+Input display by [Open Joystick Display](https://www.softpedia.com/get/Internet/Streaming/Open-Joystick-Display.shtml)
+
 I am a map maker, not a programmer.
 
 # CCLoader
