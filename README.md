@@ -7,7 +7,9 @@ To further emphasize, this mod does not change anything to how the game operates
 
 https://user-images.githubusercontent.com/125806279/225449905-8a192c8b-5933-4f33-8bae-63c04458b88d.mp4
 
-Made with [CrossCode Map Editor](https://github.com/CCDirectLink/crosscode-map-editor).
+Maps made with [CrossCode Map Editor](https://github.com/CCDirectLink/crosscode-map-editor).
+
+Area data made with [CCAreaEditor](https://github.com/WatDuhHekBro/CCAreaEditor).
 
 js code and packaging sourced from [Autumn's Genesis mod](https://github.com/Hsifnus/autumns-genesis).
 
