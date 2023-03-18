@@ -1,0 +1,20 @@
+[{
+	"type": "ENTER",
+	"index": ["labels", "menu", "new-game", "options", "names"]
+}, {
+	"type": "SET_KEY",
+	"index": "rhombus-start",
+	"content": "CursedCode"
+}, {
+	"type": "EXIT"
+}, {
+	"type": "ENTER",
+	"index": "descriptions"
+}, {
+	"type": "SET_KEY",
+	"index": "rhombus-start",
+	"content": "Play through CursedCode custom maps."
+}, {
+	"type": "EXIT",
+	"count": 4
+}]
