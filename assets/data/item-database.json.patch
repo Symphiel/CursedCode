@@ -1,0 +1,109 @@
+[{
+	"type": "ENTER",
+	"index": "items"
+}, {
+	"type": "ADD_ARRAY_ELEMENT",
+	"content": {
+		"name": {
+			"en_US": "Strawberry",
+			"de_DE": "Strawberry",
+			"fr_FR": "Strawberry",
+			"zh_CN": "Strawberry",
+			"ja_JP": "Strawberry",
+			"ko_KR": "Strawberry",
+			"langUid": 2585,
+			"zh_TW": "Strawberry"
+		},
+		"description": {
+			"en_US": "You already feel like you know what this is for.",
+			"de_DE": "You already feel like you know what this is for.",
+			"fr_FR": "You already feel like you know what this is for.",
+			"zh_CN": "You already feel like you know what this is for.",
+			"ja_JP": "You already feel like you know what this is for.",
+			"ko_KR": "You already feel like you know what this is for.",
+			"langUid": 2586,
+			"zh_TW": "You already feel like you know what this is for."
+		},
+		"type": "TRADE",
+		"icon": "item-trade",
+		"order": 10238,
+		"level": 1,
+		"effect": {
+			"sheet": "",
+			"name": null
+		},
+		"rarity": 3,
+		"cost": 0,
+		"noTrack": false
+	}
+}, {
+	"type": "ADD_ARRAY_ELEMENT",
+	"content": {
+		"order": 10239,
+		"name": {
+			"en_US": "Ark Key",
+			"de_DE": "Ark Key",
+			"fr_FR": "undefined",
+			"zh_CN": "Ark Key",
+			"ja_JP": "Ark Key",
+			"ko_KR": "Ark Key",
+			"langUid": 2587,
+			"zh_TW": "Ark Key"
+		},
+		"description": {
+			"en_US": "A regular key for the \\c[3]Bergenner's Ark\\c[0].",
+			"de_DE": "A regular key for the \\c[3]Bergenner's Ark\\c[0].",
+			"fr_FR": "undefined",
+			"zh_CN": "A regular key for the \\c[3]Bergenner's Ark\\c[0].",
+			"ja_JP": "A regular key for the \\c[3]Bergenner's Ark\\c[0].",
+			"ko_KR": "A regular key for the \\c[3]Bergenner's Ark\\c[0].",
+			"langUid": 2588,
+			"zh_TW": "A regular key for the \\c[3]Bergenner's Ark\\c[0]."
+		},
+		"type": "KEY",
+		"rarity": 0,
+		"level": 1,
+		"icon": "item-key",
+		"effect": {
+			"sheet": "",
+			"name": null
+		},
+		"noTrack": false
+	}
+}, {
+	"type": "ADD_ARRAY_ELEMENT",
+	"content": {
+		"order": 10240,
+		"name": {
+			"en_US": "Ark Master Key",
+			"de_DE": "Ark Master Key",
+			"fr_FR": "undefined",
+			"zh_CN": "Ark Master Key",
+			"ja_JP": "Ark Master Key",
+			"ko_KR": "Ark Master Key",
+			"langUid": 2589,
+			"zh_TW": "Ark Master Key"
+		},
+		"description": {
+			"en_US": "A master key for the \\c[3]Bergenner's Ark\\c[0].",
+			"de_DE": "A master key for the \\c[3]Bergenner's Ark\\c[0].",
+			"fr_FR": "undefined",
+			"zh_CN": "A master key for the \\c[3]Bergenner's Ark\\c[0].",
+			"ja_JP": "A master key for the \\c[3]Bergenner's Ark\\c[0].",
+			"ko_KR": "A master key for the \\c[3]Bergenner's Ark\\c[0].",
+			"langUid": 2590,
+			"zh_TW": "A master key for the \\c[3]Bergenner's Ark\\c[0]."
+		},
+		"type": "KEY",
+		"rarity": 0,
+		"level": 1,
+		"icon": "item-key",
+		"effect": {
+			"sheet": "",
+			"name": null
+		},
+		"noTrack": false
+	}
+}, {
+	"type": "EXIT"
+}]
