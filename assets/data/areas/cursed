@@ -127,7 +127,7 @@
 			"size": 1,
 			"map1": 1,
 			"map2": 0,
-			"condition": "map.secret"
+			"condition": "areaConnections.cursed.secret"
 		}, {
 			"tx": 29,
 			"ty": 38,
