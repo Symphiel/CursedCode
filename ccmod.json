@@ -1,0 +1,10 @@
+{
+    "id": "cursedcode",
+    "version": "0.1.2",
+    "title": "CursedCode",
+    "description": "Cursed custom maps.",
+    "repository": "https://github.com/Symphiel/CursedCode",
+    "tags": ["speedrun", "maps", "puzzle"],
+    "authors": "Symphiel",
+    "prestart": "mod.js"
+}
