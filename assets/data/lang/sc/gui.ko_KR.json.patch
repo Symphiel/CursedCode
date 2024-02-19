@@ -3,7 +3,7 @@
 	"index": ["labels", "menu", "new-game", "options", "names"]
 }, {
 	"type": "SET_KEY",
-	"index": "rhombus-start",
+	"index": "cursedcode",
 	"content": "CursedCode"
 }, {
 	"type": "EXIT"
@@ -12,7 +12,7 @@
 	"index": "descriptions"
 }, {
 	"type": "SET_KEY",
-	"index": "rhombus-start",
+	"index": "cursedcode",
 	"content": "Play through CursedCode custom maps."
 }, {
 	"type": "EXIT",
